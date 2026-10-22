@@ -3,7 +3,6 @@
   "extends": [
     "github>clio/cfg-renovate"
   ],
-  "assigneesFromCodeOwners": true,
   "forkProcessing": "enabled",
   "prConcurrentLimit": 7
 }
